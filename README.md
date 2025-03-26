@@ -1,3 +1,7 @@
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lahcen404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 # 💫 About Me:
 🔭 I’m currently working on: Building full-stack projects to enhance my coding skills.<br><br>👯 I’m looking to collaborate on: Full-stack<br> projects, open-source initiatives, or creative<br> tech solutions.<br><br>🤝 I’m looking for help with: Learning advanced<br> full-stack techniques, optimizing code, and <br>improving project management skills.<br><br>🌱 I’m currently learning: Full-stack development,<br> focusing on both frontend and backend technologies.<br><br>💬 Ask me about: Programming, tech trends, <br>global communication, Football ⚽️🤍 ,and even some <br>cooking tips !<br><br>⚡ Fun fact: I’m equally passionate about <br>coding and cooking—working on apps <br>by day and recipes by night!
 
@@ -11,10 +15,10 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahcen404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahcen404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=lahcen404&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lahcen404&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lahcen404&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
