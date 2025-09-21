@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=19FF00&vCenter=true&width=453&height=53&lines=%F0%9F%91%BE+WELCOME+TO+LAHCEN'S++PROFILE+%F0%9F%91%BE)](https://git.io/typing-svg)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lahcen404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
