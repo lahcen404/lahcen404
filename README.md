@@ -1,17 +1,55 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=19FF00&vCenter=true&width=453&height=53&lines=%F0%9F%91%BE+WELCOME+TO+LAHCEN'S++PROFILE+%F0%9F%91%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=27&pause=1000&color=19FF00&vCenter=true&width=520&height=53&lines=%F0%9F%91%BE+WELCOME+TO+LAHCEN'S+PROFILE+%F0%9F%91%BE;💻+Full+Stack+Developer+%7C;⚡+Coding+%26+Creativity+Combined)](https://git.io/typing-svg)
 
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lahcen404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
 
-# 💫 About Me:
-🔭 I’m currently working on: Building full-stack projects to enhance my coding skills.<br><br>👯 I’m looking to collaborate on: Full-stack<br> projects, open-source initiatives, or creative<br> tech solutions.<br><br>🤝 I’m looking for help with: Learning advanced<br> full-stack techniques, optimizing code, and <br>improving project management skills.<br><br>🌱 I’m currently learning: Full-stack development,<br> focusing on both frontend and backend technologies.<br><br>💬 Ask me about: Programming, tech trends, <br>global communication, Football ⚽️🤍 ,and even some <br>cooking tips !<br><br>⚡ Fun fact: I’m equally passionate about <br>coding, Camping and cooking working on apps <br>by day and recipes by night!
+# 💫 About Me
+🔭 **Currently working on:** Building full-stack projects to sharpen my coding skills.  
+👯 **Looking to collaborate on:** Open-source projects, web apps & creative tech ideas.  
+🤝 **Looking for help with:** Mastering advanced full-stack techniques & project management.  
+🌱 **Currently learning:** Java, Angular, Spring Boot & modern frontend frameworks.  
+💬 **Ask me about:** Programming, tech trends, football ⚽🤍, global communication & cooking 🍳.  
+⚡ **Fun fact:** I debug code by day & test recipes by night 🌙✨.  
 
+> *“Coding isn’t just problem-solving; it’s the art of turning ideas into reality.”* 🚀  
+
+---
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/749634870145187910) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Lahcen.Ait.Maskour0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lahcen__maskour) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lahcen-ait-maskour-32716422b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@lahcen.maskour2003) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/AIT-MASKOUR-Lahcen) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lahcen404) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28152849) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lahcen__maskour) 
+
+<div align="left">
+  <a href="https://linkedin.com/in/lahcen-ait-maskour-32716422b" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/lahcen__maskour" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/749634870145187910" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://facebook.com/Lahcen.Ait.Maskour0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/lahcen__maskour" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://medium.com/@@lahcen.maskour2003" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/28152849" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+ [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/AIT-MASKOUR-Lahcen) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lahcen404) 
+
+
+
 
 # 💻 Tech Stack:
 
@@ -43,12 +81,12 @@
 
 ###
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=lahcen404&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lahcen404&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lahcen404&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+---
 
 
 ![](https://github.com/lahcen404/lahcen404/blob/output/github-contribution-grid-snake.svg)
@@ -60,8 +98,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=lahcen404&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lahcen404&icon=0&color=0)](https://visitcount.itsvg.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahcen404&label=Profile%20views&color=0e75b6&style=flat" alt="lahcen404" /> </p>
 
 
 <picture>
@@ -76,6 +112,10 @@
 
   ## PAYPAL
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/lahcen100k) 
+
+
+[![](https://visitcount.itsvg.in/api?id=lahcen404&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahcen404&label=Profile%20views&color=0e75b6&style=flat" alt="lahcen404" /> </p>
 
   
 
