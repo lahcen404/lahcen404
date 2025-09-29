@@ -10,10 +10,15 @@
 
 # 💫 About Me
 🔭 **Currently working on:** Building full-stack projects to sharpen my coding skills.  
+
 👯 **Looking to collaborate on:** Open-source projects, web apps & creative tech ideas.  
+
 🤝 **Looking for help with:** Mastering advanced full-stack techniques & project management.  
+
 🌱 **Currently learning:** Java, Angular, Spring Boot & modern frontend frameworks.  
-💬 **Ask me about:** Programming, tech trends, football ⚽🤍, global communication & cooking 🍳.  
+
+💬 **Ask me about:** Programming, tech trends, football ⚽🤍, global communication & cooking 🍳. 
+
 ⚡ **Fun fact:** I debug code by day & test recipes by night 🌙✨.  
 
 > *“Coding isn’t just problem-solving; it’s the art of turning ideas into reality.”* 🚀  
