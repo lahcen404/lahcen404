@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=27&pause=1000&color=19FF00&vCenter=true&width=520&height=53&lines=%F0%9F%91%BE+WELCOME+TO+LAHCEN'S+PROFILE+%F0%9F%91%BE;💻+Full+Stack+Developer+%7C;⚡+Coding+%26+Creativity+Combined)](https://git.io/typing-svg)
 
 
-
 ---
 
 ## 🏆 GitHub Trophies
