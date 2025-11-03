@@ -83,7 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,c,cpp,angular,spring,figma,git,github,tailwind,bootstrap,docker,jenkins)](https://github?com/lahcen404)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,c,angular,spring,figma,git,github,tailwind,bootstrap,docker,jenkins)](https://github?com/lahcen404)
 
 
 
