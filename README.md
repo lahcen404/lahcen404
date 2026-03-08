@@ -110,7 +110,7 @@
 ## 📦 Package Management
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=npm" />
+  <img src="https://skillicons.dev/icons?i=npm,maven" />
 </div>
 
 
