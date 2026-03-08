@@ -15,7 +15,7 @@
 
 🤝 **Looking for help with:** Mastering advanced full-stack techniques & project management.  
 
-🌱 **Currently learning:** Java, Angular, Spring Boot & modern frontend frameworks.  
+🌱 **Currently learning:** PHP, Laravel, Vue JS & modern frontend frameworks.  
 
 💬 **Ask me about:** Programming, tech trends, football ⚽🤍, global communication & cooking 🍳. 
 
