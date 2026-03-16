@@ -78,7 +78,7 @@
 ## 🎨 Frontend
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,vuejs,tailwind,bootstrap,materialui" />
 </div>
 
 ---
