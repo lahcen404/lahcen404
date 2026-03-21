@@ -7,6 +7,7 @@
 
 ---
 
+
 # 💫 About Me
 🔭 **Currently working on:** Building full-stack projects to sharpen my coding skills.  
 
