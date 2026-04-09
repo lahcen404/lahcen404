@@ -86,7 +86,7 @@
 ## 🗄️ Database
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
 </div>
 
 ---
