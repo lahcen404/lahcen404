@@ -7,20 +7,24 @@
 
 ---
 
+
 # 💫 About Me
-🔭 **Currently working on:** Building full-stack projects to sharpen my coding skills.  
 
-👯 **Looking to collaborate on:** Open-source projects, web apps & creative tech ideas.  
 
-🤝 **Looking for help with:** Mastering advanced full-stack techniques & project management.  
+🔭 **Currently working on:** Building full-stack projects and exploring AI-powered applications to improve my development skills.
 
-🌱 **Currently learning:** PHP, Laravel, Vue JS & modern frontend frameworks.  
+👯 **Looking to collaborate on:** Open-source projects, web apps, AI/ML experiments & creative tech ideas.
 
-💬 **Ask me about:** Programming, tech trends, football ⚽🤍, global communication & cooking 🍳. 
+🤝 **Looking for help with:** Mastering advanced full-stack development, Python, AI/ML concepts & real-world project architecture.
 
-⚡ **Fun fact:** I debug code by day & test recipes by night 🌙✨.  
+🌱 **Currently learning:** Python, Artificial Intelligence (AI), Machine Learning (ML), along with modern backend & frontend frameworks.
 
-> *“Coding isn’t just problem-solving; it’s the art of turning ideas into reality.”* 🚀  
+💬 **Ask me about:** Programming, AI trends, web development, football ⚽🤍, global communication & cooking 🍳.
+
+⚡ **Fun fact:** I debug code by day and explore AI models or test recipes by night 🌙✨.
+
+> *“Coding isn’t just problem-solving; it’s the art of turning ideas into reality , now powered by AI.”* 🚀
+
 
 ---
 
