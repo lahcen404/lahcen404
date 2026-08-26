@@ -46,7 +46,7 @@ I'm a Full Stack Developer building production-grade web apps with **Java/Spring
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:A371F7&height=55&section=header&text=%F0%9F%92%BB%20TECH%20ARSENAL&fontSize=22&fontColor=F0F6FC&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:A371F7&height=55&section=header&text=%F0%9F%92%BB%20TECH&fontSize=22&fontColor=F0F6FC&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
