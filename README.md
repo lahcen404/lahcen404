@@ -28,7 +28,7 @@ currently_building: AI-integrated web applications @ Digital Speak Group
 fun_fact: "Backend engineer sliding into AI, one model at a time ⚡"
 ```
 
-I'm a Full Stack Developer building production-grade web apps with **Java/Spring Boot** and **Laravel** on the backend, and **Angular / Vue / Nuxt** on the frontend. I recently completed an internship at Digital Speak Group in Marrakech, shipping three AI-integrated applications — the point where my engineering background started colliding with AI/ML, which is now the direction I'm actively building toward.
+I'm a Full Stack Developer building production-grade web apps with **Java/Spring Boot** , **Python** and **PHP/Laravel** on the backend, and **Angular / Vue / Nuxt** on the frontend. I recently completed an internship at Digital Speak Group in Marrakech, shipping three AI-integrated applications — the point where my engineering background started colliding with AI/ML, which is now the direction I'm actively building toward.
 
 <br/>
 
@@ -51,11 +51,11 @@ I'm a Full Stack Developer building production-grade web apps with **Java/Spring
 <div align="center">
 
 <table width="100%">
-<tr><th align="left" width="18%">🔧 Backend</th><td><img src="https://skillicons.dev/icons?i=java,spring,php,laravel,tomcat&theme=dark" /></td></tr>
+<tr><th align="left" width="18%">🔧 Backend</th><td><img src="https://skillicons.dev/icons?i=java,spring,php,python,laravel,tomcat&theme=dark" /></td></tr>
 <tr><th align="left">🎨 Frontend</th><td><img src="https://skillicons.dev/icons?i=angular,vue,nuxtjs,js,ts,tailwind,html,css,bootstrap,materialui&theme=dark" /></td></tr>
 <tr><th align="left">🗄️ Data & Infra</th><td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,nginx,jenkins,linux&theme=dark" /></td></tr>
 <tr><th align="left">🛠️ Tools</th><td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jira,postman,idea&theme=dark" /></td></tr>
-<tr><th align="left">🤖 AI / Data Sci.<br/><sub>leveling up</sub></th><td><img src="https://skillicons.dev/icons?i=python,pandas,sklearn,tensorflow&theme=dark" /></td></tr>
+<tr><th align="left">🤖 AI / Data Sci.<br/><sub>leveling up</sub></th><td><img src="https://skillicons.dev/icons?i=python,pandas,numpy,airflow,sklearn,tensorflow&theme=dark" /></td></tr>
 </table>
 
 </div>
