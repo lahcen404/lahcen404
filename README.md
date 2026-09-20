@@ -55,7 +55,7 @@ I'm a Full Stack Developer building production-grade web apps with **Java/Spring
 <tr><th align="left">🎨 Frontend</th><td><img src="https://skillicons.dev/icons?i=angular,vue,nuxtjs,js,ts,tailwind,html,css,bootstrap,materialui&theme=dark" /></td></tr>
 <tr><th align="left">🗄️ Data & Infra</th><td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,nginx,jenkins,linux&theme=dark" /></td></tr>
 <tr><th align="left">🛠️ Tools</th><td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jira,postman,idea&theme=dark" /></td></tr>
-<tr><th align="left">🤖 AI / Data Sci.<br/><sub>leveling up</sub></th><td><img src="https://skillicons.dev/icons?i=python,pandas,numpy,airflow,sklearn,tensorflow&theme=dark" /></td></tr>
+<tr><th align="left">🤖 AI / Data Sci.<br/></th><td><img src="https://skillicons.dev/icons?i=python,pandas,numpy,airflow,sklearn,tensorflow&theme=dark" /></td></tr>
 </table>
 
 </div>
