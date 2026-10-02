@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:A371F7&height=200&section=header&text=LAHCEN%20AIT%20MASKOUR&fontSize=45&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C3%97%20AI%2FML%20Explorer&descAlignY=55&descSize=18&descColor=8B949E" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+LAHCEN.DEV...;%3E+FULL+STACK+DEVELOPER;%3E+BUILDING+DIGITAL+EXPERIENCES;%3E+EXPLORING+AI+%26+MACHINE+LEARNING;%3E+SYSTEM+ONLINE+%E2%9C%93" alt="Typing SVG" />
