@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-lahcen404-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/lahcen404)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A371F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/lahcen-ait-maskour-32716422b)
 [![X](https://img.shields.io/badge/X-Follow-39D353?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117)](https://x.com/lahcen__maskour)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-F0F6FC?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=58A6FF)](https://www.lahcenlahcenaitmaskour.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-F0F6FC?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=58A6FF)](https://www.lahcenaitmaskour.dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lahcen404&style=for-the-badge&color=A371F7&label=PROFILE+VIEWS)
 
